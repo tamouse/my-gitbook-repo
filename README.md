@@ -8,3 +8,5 @@ What is this all about?
 
 Will I be able to write with org-mode emacs and upload to this?
 
+![kickserv-tested, norman-approved](.gitbook/assets/approved.png)
+
